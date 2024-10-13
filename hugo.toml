@@ -1,0 +1,8 @@
+baseURL = 'zachwcohn.com'
+languageCode = 'en-us'
+title = 'Zach Cohn'
+theme = "archie"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
