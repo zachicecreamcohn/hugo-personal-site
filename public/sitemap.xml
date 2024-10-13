@@ -5,10 +5,13 @@
     <loc>//localhost:1313/posts/a-case-for-more-tools/</loc>
     <lastmod>2024-10-13T01:18:11-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/lessons/</loc>
+    <loc>//localhost:1313/tags/lesson/</loc>
     <lastmod>2024-10-13T01:18:11-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-10-13T01:18:11-05:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/software/</loc>
     <lastmod>2024-10-13T01:18:11-05:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
