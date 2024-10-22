@@ -12,6 +12,11 @@ tags:
 
 I'm always fiddling with the tools I use, so it's possible this eventually becomes out of date. But for now, here's what I use:
 
+### The OS
+
+My first computer was a Mac. Then I got a Windows computer. At some point, I installed Linux (Mint) on that machine and used that full-time. Now I use MacOS full time. While it's far from perfect, seamless integration with my iPhone, Airdrop, native Arc (see [The Browser]({{<ref "my-setup#the-browser" >}})), gives it an edge over the alternatives, especially when coupled with the [AeroSpace](https://github.com/nikitabobko/AeroSpace).
+
+My theatre work often requires [QLab](https://figure53.com), an incredible piece of software that sadly only runs on Mac. When I daily drove Windows and Linux, I owned a supplemental Mac Mini. I no longer need more than one device.
 
 ### The Editor
 
@@ -28,12 +33,6 @@ Obsidian is amazing.
 My Google account is the hub for all my communications and life organization, so I don't mind paying for the best possible experience. I pay for a single seat of Google Workspace's Business plan. I back up all my files to Drive and use email aliases and inbox filters that automatically tag incoming mail based on the alias used: theatre@zachwcohn.com, software@zachwcohn.com, travel@zachwcohn.com, etc. If I suddenly got into glass blowing, I'd create the alias glass@zachwcohn.com and add a filter to tag all mail sent to that address accordingly.
 
 I like to keep my inbox organized. If an email is still in my inbox, it means I need to read or respond to it, or I’ve just sent a message and I’m waiting for things to wrap up (like an open buffer in Neovim). Once I’ve finished with an email or no longer expect a reply, I tag and archive it.
-
-### The OS
-
-My first computer was a Mac. Then I got a Windows computer. At some point, I installed Linux (Mint) on that machine and used that full-time. Now I use MacOS full time. While it's far from perfect, seamless integration with my iPhone, Airdrop, native Arc (see [The Browser]({{<ref "my-setup#the-browser" >}})), gives it an edge over the alternatives, especially when coupled with the [AeroSpace](https://github.com/nikitabobko/AeroSpace) window manager.
-
-My theatre work often requires [QLab](https://figure53.com), an incredible piece of software that sadly only runs on Mac. When I daily drove Windows and Linux, I owned a supplemental Mac Mini. I no longer need more than one device.
 
 Finally, there's something to be said about the "it just works" quality of (most) Apple devices. As of now, it's just not worth my time to struggle to tune a Linux machine to reach my standards and requirements. Maybe someday...
 
