@@ -19,4 +19,4 @@ Then there’s the other kind of laziness—the kind I can’t stand. This is th
 
 If your laziness means putting off a task only you rely on, like laundry, that’s your choice—you’re the one living with the consequences. But when others are depending on you, making excuses to dodge responsibilities isn’t just lazy; it’s disrespectful. It’s unfair to the people counting on you to get things done, and it’s a waste of their time and effort.
 
-In short, there’s a productive kind of lazy that helps us improve, and then there’s the lazy that leads to shirking responsibilities. If your laziness drives you to make things better and more efficient, embrace it. But if it fuels excuses to avoid meaningful work, especially when it impacts others, it’s simply inexcusable.
+In short, there’s a productive kind of lazy that helps us improve, and then there’s the lazy that leads to shirking responsibilities. If your laziness drives you to make things better and more efficient, embrace it. But if it fuels excuses to avoid meaningful work, especially when it impacts others, please try to do better.
