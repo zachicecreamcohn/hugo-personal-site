@@ -3,7 +3,7 @@ title: "On Laziness"
 date: 2024-11-12T15:47:33-06:00
 slug: 2024-11-12-on-laziness
 type: posts
-draft: false
+draft: true
 categories:
   - default
 tags:

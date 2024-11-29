@@ -3,7 +3,7 @@ title: "On Timeliness"
 date: 2024-11-12T15:47:21-06:00
 slug: 2024-11-12-on-timeliness
 type: posts
-draft: true
+draft: false
 categories:
   - default
 tags:
