@@ -37,7 +37,7 @@ I like to keep my inbox organized. If an email is still in my inbox, it means I 
 Finally, there's something to be said about the "it just works" quality of (most) Apple devices. As of now, it's just not worth my time to struggle to tune a Linux machine to reach my standards and requirements. Maybe someday...
 
 ### Keyboard
-I use a wireless corne split keyboard. I've got my eues on the Glove80, but I have found the small form factor of the corne to perfectly fit my needs. I like that it's incredibly portable which means I can maintain consistency in my typing experience no matter where I go. I started using a split keyboard becuase I was experiencing some wrist pain and I've found that it's helped a lot. And it's just fun to use. My one complaint is that it makes switching to conventional laptop keyboard a bit of a pain when using someone else's machine.
+I use a wireless corne split keyboard. I've got my eyes on the Glove80, but I have found the small form factor of the corne to perfectly fit my needs. I like that it's incredibly portable which means I can maintain consistency in my typing experience no matter where I go. I started using a split keyboard becuase I was experiencing some wrist pain and I've found that it's helped a lot. And it's just fun to use. My one complaint is that it makes switching to conventional laptop keyboard a bit of a pain when using someone else's machine.
 
 ### The Browser {#the-browser}
 
