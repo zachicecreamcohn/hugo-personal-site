@@ -3,7 +3,7 @@ title: "On Communication"
 date: 2024-11-12T15:47:02-06:00
 slug: 2024-11-12-on-communication
 type: posts
-draft: false
+draft: true
 categories:
   - default
 tags:
