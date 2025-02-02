@@ -6,6 +6,8 @@ type: posts
 draft: false
 categories:
   - default
+tags:
+  - theatre
 ---
 
 I'm in my final year of college and, in order to complete my Drama degree, am enrolled in a theater class which requires us to put on 5 small performances over the course of the semester. The professor is an acedemic who has never worked professionally in theater and has decided to run the class more like an incubator than a Drama course. We spend our valuable class time filling out sprint logs, estimating story points, and self-assessing for optimum project efficiency. The course fulfills a history-like requirement for my degree, but the professor has shifted the focus to creating as many small "productions" as possible. That on it's own is not the problem. The problem is that the professor has decided to enforce Agile as the methodology for making theatre.
