@@ -23,7 +23,7 @@ Finally, there's something to be said about the "it just works" quality of (most
 
 My primary editor is Neovim ([config](https://github.com/zachicecreamcohn/nvim-config)). I used VSCode for the longest time until I switched to the JetBrains suite. I really only used vim when SSH-ing into a Linux instance and it always felt a bit clunky. But this past summer at [Amplify](https://amplify.com), I had the pleasure of pairing with [Denis Lantsman](https://github.com/dlants). There are a couple moments every now and then when you come to the exciting and daunting realization that you're just barely scratching the surface of what is possible; seeing Denis absolutely zoom through the codebase in neovim was one of those moments. I've since converted and can't beleive I didn't do it earlier.
 
-*Note: [Alacritty](https://alacritty.org/) is my terminal emulator.*
+When I first switched to Neovim, I used [Alacritty](https://alacritty.org/) but have since switched to [Neovide](https://neovide.dev) purely for the aesthetics. It all feels so smooth and pretty which is just the icing on the cake.
 
 ### Notes
 
@@ -42,6 +42,8 @@ I use a wireless corne split keyboard. I've got my eyes on the Glove80, but I ha
 ### The Browser {#the-browser}
 
 I'm a big fan of [Arc](https://arc.net). I use Spaces to keep my activities separate, which not only helps bundle related sites and login sessions together but also improves my mental model of the browser when working. For example, when switching from schoolwork to development for the university newspaper, toggling between differently styled Spaces with their own organized bookmarks helps me switch mental contexts.
+
+Every now and then i feel the pull of Firefox, but as of right now, balancing my various activities (various theater projects, school, personal projects, and work) is made so easy with spaces that I haven't felt the need to switch. I'm not a fan of the built in AI stuff, but at least that can be turned off.
 
 
 ### Passwords
