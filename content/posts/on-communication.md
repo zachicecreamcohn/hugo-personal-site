@@ -23,12 +23,12 @@ For instance, if a part of a project requires another person’s work to be comp
 
 ### Asking for Help and Avoiding Prolonged Blocks
 
-When working through challenges, it’s always wise to try solving issues independently first. But if you’re still stuck after a reasonable effort—say, an hour—and believe a teammate might have a solution, reaching out can prevent prolonged blocks. I’d bet a million dollars that any collaborator would rather spend a little extra time helping someone get unblocked than find out at the last minute that key work was delayed because someone didn’t ask for help.
+When working through challenges, it’s always wise to try solving issues independently first. But if you’re still stuck after a reasonable effort—say, an hour—and believe a teammate might have a solution, reaching out can prevent prolonged blocks. I’d bet a million dollars that any collaborator would rather spend a little extra time helping someone get unblocked than find out at the last minute that key work didn't get done because someone didn’t ask for help.
 
 When asking for assistance, be clear and thorough. Share not only what the problem is but also the high-level goal and what you’ve tried. This way, you avoid redundancy and help teammates understand the full context before jumping in.
 
-### Avoiding the “Game of Telephone” in Team Communication
-On many teams, messages often get distorted, like in a game of telephone, as they pass through different people. Essential details and intentions can warp, especially when feedback is relayed indirectly. To avoid this, if you have feedback to share with a teammate, deliver it yourself—directly and clearly.
+### Avoiding the Game of Telephone in Team Communication
+On many teams, messages often get distorted as they pass through different people. Essential details and intentions can warp, especially when feedback is relayed indirectly. To avoid this, if you have feedback to share with a teammate, deliver it yourself—directly and clearly.
 
 Positive feedback is most impactful when it comes directly from you. When you give compliments face-to-face, it builds rapport and feels authentic; compliments that come through intermediaries lose impact. Constructive feedback is also best shared directly. Delivering it in person shows respect for your teammate, preserves your message’s clarity, and prevents misinterpretation. By avoiding intermediaries, you prevent involving teammates who don’t need to be part of the conversation and avoid inflating the significance of your critique.
 
